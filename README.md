@@ -1,5 +1,5 @@
 # duchenne-proms
-An attempt to create an ontology to describe proms using in Duchenne Data Platform
+An ontology to describe pros used by the Duchenne Data Platform/Duchenne Parent Project
 
 the recommended prefix for the ontology is:
 
